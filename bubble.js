@@ -30,5 +30,5 @@ function bubbleSort(arr) {
     }
     return arr;
 }
-console.log(bubbleSort(["p","a","c","b","u"]));
+console.log(bubbleSort(["p","a","c","b","e" ]));
 console.log(bubbleSort([5,3,8,6,2]));
